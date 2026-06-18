@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=7B2CBF&height=220&section=header&text=Aswin%20Kumar%20Reddy%20Koothedhula&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=FFFFFF&desc=Enterprise%20Software%20Engineer%20%7C%20AI%2FML%20Specialist&descAlignY=65&descAlign=60" alt="Animated Header Wave" />
+  <h1>Aswin Kumar Reddy Koothedhula</h1>
   
   <br/>
 
