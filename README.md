@@ -27,9 +27,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ASH274946&color=0E4429&style=for-the-badge&label=Profile+Views&v=2" alt="Profile Views Badge" />
-  <img src="https://img.shields.io/github/followers/ASH274946?color=0E4429&style=for-the-badge&logo=github&label=Followers&v=2" alt="Followers Badge" />
-  <img src="https://img.shields.io/github/stars/ASH274946?color=0E4429&style=for-the-badge&logo=github&label=Stars&v=2" alt="Stars Badge" />
+  <img src="https://komarev.com/ghpvc/?username=ASH274946&color=0E4429&style=for-the-badge&label=Profile+Views" alt="Profile Views Badge" />
+  <img src="https://img.shields.io/github/followers/ASH274946?color=0E4429&style=for-the-badge&logo=github&label=Followers" alt="Followers Badge" />
+  <img src="https://img.shields.io/github/stars/ASH274946?color=0E4429&style=for-the-badge&logo=github&label=Stars" alt="Stars Badge" />
 </div>
 
 ---
@@ -181,14 +181,14 @@ As a founding cohort member, I contributed extensively to India's first Telugu r
 
 <div align="center">
   <a href="https://github.com/ASH274946" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=ASH274946&bg_color=0D1117&title_color=FFFFFF&text_color=999999&icon_color=888888&hide_border=true&show_icons=true&v=2" alt="GitHub Global Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ASH274946&bg_color=0D1117&title_color=FFFFFF&text_color=999999&icon_color=888888&hide_border=true&show_icons=true" alt="GitHub Global Stats" />
   </a>
   <a href="https://github.com/ASH274946" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASH274946&background=0D1117&ring=888888&fire=888888&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=999999&dates=999999&hide_border=true&v=2" alt="GitHub Contribution Streak" />
+    <img src="https://streak-stats.demolab.com/?user=ASH274946&background=0D1117&ring=888888&fire=888888&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=999999&dates=999999&hide_border=true" alt="GitHub Contribution Streak" />
   </a>
   <br/>
   <a href="https://github.com/ASH274946" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASH274946&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&layout=compact&hide_border=true&v=2" alt="Top Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASH274946&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&layout=compact&hide_border=true" alt="Top Used Languages" />
   </a>
 </div>
 
@@ -198,7 +198,7 @@ As a founding cohort member, I contributed extensively to India's first Telugu r
 
 <div align="center">
   <a href="https://github.com/ASH274946" target="_blank">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASH274946&bg_color=0D1117&color=999999&line=FFFFFF&point=FFFFFF&area=true&hide_border=true&v=2" alt="Contribution Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASH274946&bg_color=0D1117&color=999999&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
   </a>
 </div>
 
@@ -208,7 +208,7 @@ As a founding cohort member, I contributed extensively to India's first Telugu r
 
 <div align="center">
   <a href="https://github.com/ASH274946" target="_blank">
-    <img src="https://raw.githubusercontent.com/ASH274946/ASH274946/output/github-contribution-grid-snake.svg?v=2" alt="GitHub Activity Snake" />
+    <img src="https://raw.githubusercontent.com/ASH274946/ASH274946/output/github-contribution-grid-snake.svg" alt="GitHub Activity Snake" />
   </a>
 </div>
 
