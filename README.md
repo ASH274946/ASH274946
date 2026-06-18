@@ -3,38 +3,38 @@
   
   <br/>
 
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+ML+Specialist;Full+Stack+Developer;Product+Builder">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+ML+Specialist;Full+Stack+Developer;Product+Builder" alt="Typing SVG Animation" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+ML+Specialist;Full+Stack+Developer;Product+Builder" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+ML+Specialist;Full+Stack+Developer;Product+Builder" alt="Typing SVG Animation" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20&%20ML)-7B2CBF?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-Secunderabad%2C%20India-5A189A?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20&%20ML)-333333?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Location-Secunderabad%2C%20India-333333?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location Badge" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://portfolio.buildwithash.dev"><img src="https://img.shields.io/badge/Portfolio-Live-9D4EDD?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio Button" /></a>
-  <a href="https://linkedin.com/in/ash274946"><img src="https://img.shields.io/badge/LinkedIn-Connect-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" /></a>
-  <a href="mailto:koothedhulaa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-5A189A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button" /></a>
-  <a href="https://github.com/ASH274946"><img src="https://img.shields.io/badge/GitHub-Profile-3C096C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button" /></a>
+  <a href="https://portfolio.buildwithash.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live-444444?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio Button" /></a>
+  <a href="https://linkedin.com/in/ash274946" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-444444?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" /></a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=koothedhulaa@gmail.com&su=Contact+from+Portfolio&tf=cm" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button" /></a>
+  <a href="https://github.com/ASH274946" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-444444?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button" /></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ASH274946&color=9D4EDD&style=for-the-badge&label=Profile+Views" alt="Profile Views Badge" />
-  <img src="https://img.shields.io/github/followers/ASH274946?color=7B2CBF&style=for-the-badge&logo=github&label=Followers" alt="Followers Badge" />
-  <img src="https://img.shields.io/github/stars/ASH274946?color=5A189A&style=for-the-badge&logo=github&label=Stars" alt="Stars Badge" />
+  <img src="https://komarev.com/ghpvc/?username=ASH274946&color=555555&style=for-the-badge&label=Profile+Views" alt="Profile Views Badge" />
+  <img src="https://img.shields.io/github/followers/ASH274946?color=555555&style=for-the-badge&logo=github&label=Followers" alt="Followers Badge" />
+  <img src="https://img.shields.io/github/stars/ASH274946?color=555555&style=for-the-badge&logo=github&label=Stars" alt="Stars Badge" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am an enterprise-focused software engineer and AI-native product builder, currently in my final year of a B.Tech in CSE (AI & ML). Professionally and legally known as Aswin Kumar Reddy Koothedhula, my engineering focus revolves around conceptualizing, designing, and shipping full-stack AI products from ideation to scalable deployment. My expertise encompasses advanced AI/ML pipelines, robust system architecture, and nuanced product logic. 
 
@@ -44,7 +44,7 @@ With a profound product engineering mindset, I emphasize performance, security, 
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -64,7 +64,7 @@ With a profound product engineering mindset, I emphasize performance, security, 
 
 ---
 
-## 🧠 AI / ML Expertise
+## AI / ML Expertise
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
@@ -75,10 +75,10 @@ With a profound product engineering mindset, I emphasize performance, security, 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details>
-<summary><strong>🎥 Visume - AI Video Hiring Platform</strong></summary>
+<summary><strong>Visume - AI Video Hiring Platform</strong></summary>
 
 An AI-first recruitment platform replacing static resumes with AI-analyzed video profiles, featuring a dual-portal architecture for recruiters and candidates. Includes an AI transcript analysis workflow for automatic candidate scoring and ranking.
 
@@ -89,14 +89,14 @@ An AI-first recruitment platform replacing static resumes with AI-analyzed video
 | **Performance** | Automated transcription & intelligent scoring pipeline |
 | **Security** | Role-based access control & secure media storage |
 | **Impact** | Eliminates manual screening effort with data-driven shortlisting |
-| **Repository** | [View Repository](#) |
+| **Repository** | <a href="#" target="_blank">View Repository</a> |
 
 **Professional Explanation:** Designed and owned the complete system architecture, shipping from zero to deployment in 5 days. Engineered a robust pipeline that integrates real-time messaging, a custom video resume studio, and LLM-powered candidate analysis workflows.
 
 </details>
 
 <details>
-<summary><strong>🏥 Smart Premium</strong></summary>
+<summary><strong>Smart Premium</strong></summary>
 
 An advanced machine learning application dedicated to predictive modeling for medical insurance premiums, utilizing robust statistical analysis and optimized data pipelines.
 
@@ -107,14 +107,14 @@ An advanced machine learning application dedicated to predictive modeling for me
 | **Performance** | High-accuracy regression models with optimized feature sets |
 | **Security** | Secure API endpoints for data ingestion |
 | **Impact** | Delivers reliable, data-backed premium estimates |
-| **Repository** | [View Repository](#) |
+| **Repository** | <a href="#" target="_blank">View Repository</a> |
 
 **Professional Explanation:** Engineered the core predictive algorithms, focusing on detailed feature extraction and model optimization to ensure precise forecasting metrics for financial planning in the medical sector.
 
 </details>
 
 <details>
-<summary><strong>📝 Fillora - AI Form Automation App</strong></summary>
+<summary><strong>Fillora - AI Form Automation App</strong></summary>
 
 A cross-platform mobile application utilizing AI for advanced form automation, featuring multilingual capabilities, voice input (STT & TTS), and robust offline operations.
 
@@ -125,14 +125,14 @@ A cross-platform mobile application utilizing AI for advanced form automation, f
 | **Performance** | High-efficiency offline-capable database design |
 | **Security** | Biometric authentication layer |
 | **Impact** | Enhances accessibility and significantly reduces manual data entry time |
-| **Repository** | [View Repository](#) |
+| **Repository** | <a href="#" target="_blank">View Repository</a> |
 
 **Professional Explanation:** Architected and shipped an accessibility-first application during the Google Developer Groups Agentathon, integrating conversational AI assistance with secure local authentication and PDF export functionalities.
 
 </details>
 
 <details>
-<summary><strong>📊 FinScribe.ai - Automated Financial Report Generator</strong></summary>
+<summary><strong>FinScribe.ai - Automated Financial Report Generator</strong></summary>
 
 An automated MD&A report generator that translates raw financial statements into structured, analytical outputs using an advanced Retrieval-Augmented Generation (RAG) pipeline.
 
@@ -143,7 +143,7 @@ An automated MD&A report generator that translates raw financial statements into
 | **Performance** | Accelerated metric computation & semantic search |
 | **Security** | Secure financial data handling in memory |
 | **Impact** | Reduces manual financial analysis and reporting overhead |
-| **Repository** | [View Repository](#) |
+| **Repository** | <a href="#" target="_blank">View Repository</a> |
 
 **Professional Explanation:** Designed the complete AI workflow incorporating Google Gemini for complex financial insight extraction. Successfully built and shipped the full-stack architecture within 24 hours at the GenAI Buildathon.
 
@@ -151,7 +151,7 @@ An automated MD&A report generator that translates raw financial statements into
 
 ---
 
-## 💼 Experience
+## Experience
 
 **AI Product Intern** | **Viswam.ai-Swecha Corpus**
 *May 2025 - Nov 2025*
@@ -166,7 +166,7 @@ As a founding cohort member, I contributed extensively to India's first Telugu r
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 | Recognition | Details |
 | :--- | :--- |
@@ -177,77 +177,44 @@ As a founding cohort member, I contributed extensively to India's first Telugu r
 
 ---
 
-## 📜 Certifications
+## GitHub Analytics
 
 <div align="center">
-
-### AWS
-<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certification" />
-
-### Oracle
-<img src="https://img.shields.io/badge/Oracle-Certified%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certification" />
-
-### NPTEL
-<img src="https://img.shields.io/badge/NPTEL-Elite%20Certification-0052CC?style=for-the-badge&logo=nptel&logoColor=white" alt="NPTEL Certification" />
-
-### Cisco
-<img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certification" />
-
-### AI & Cloud Credentials
-<img src="https://img.shields.io/badge/Google%20Cloud-Arcade%20Program-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Cert" />
-<img src="https://img.shields.io/badge/AI%20&%20ML-Virtual%20Internship-7B2CBF?style=for-the-badge&logo=machinelearning&logoColor=white" alt="AI/ML Cert" />
-
-</div>
-
----
-
-## 💻 Coding Profiles
-
-<div align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Premium-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Badge" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Elite-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge" />
-  <img src="https://img.shields.io/badge/HackerRank-Gold-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank Badge" />
-  <img src="https://img.shields.io/badge/CodeChef-4%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Badge" />
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASH274946&theme=radical&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&icon_color=7B2CBF&hide_border=true&show_icons=true" alt="GitHub Global Stats" />
-  <img src="https://streak-stats.demolab.com/?user=ASH274946&theme=radical&background=0D1117&ring=9D4EDD&fire=7B2CBF&currStreakLabel=9D4EDD&hide_border=true" alt="GitHub Contribution Streak" />
+  <a href="https://github.com/ASH274946" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=ASH274946&bg_color=0D1117&title_color=FFFFFF&text_color=999999&icon_color=888888&hide_border=true&show_icons=true" alt="GitHub Global Stats" />
+  </a>
+  <a href="https://github.com/ASH274946" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=ASH274946&background=0D1117&ring=888888&fire=888888&currStreakLabel=FFFFFF&sideLabels=999999&dates=999999&hide_border=true" alt="GitHub Contribution Streak" />
+  </a>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASH274946&theme=radical&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&layout=compact&hide_border=true" alt="Top Used Languages" />
+  <a href="https://github.com/ASH274946" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASH274946&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&layout=compact&hide_border=true" alt="Top Used Languages" />
+  </a>
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ASH274946&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Profile Trophies" />
+  <a href="https://github.com/ASH274946" target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASH274946&bg_color=0D1117&color=999999&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  </a>
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## Contribution Path
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASH274946&bg_color=0D1117&color=9D4EDD&line=7B2CBF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <a href="https://github.com/ASH274946" target="_blank">
+    <img src="https://raw.githubusercontent.com/ASH274946/ASH274946/output/github-contribution-grid-snake.svg" alt="GitHub Activity Snake" />
+  </a>
 </div>
 
 ---
 
-## 🐍 Contribution Path
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ASH274946/ASH274946/output/github-contribution-grid-snake.svg" alt="GitHub Activity Snake" />
-</div>
-
----
-
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 Learning:
