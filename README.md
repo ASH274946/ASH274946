@@ -11,17 +11,17 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20&%20ML)-7B2CBF?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Academic Badge" />[cite: 1]
+  <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20&%20ML)-7B2CBF?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Academic Badge" />
   <img src="https://img.shields.io/badge/Location-Secunderabad%2C%20India-5A189A?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location Badge" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://portfolio.buildwithash.dev"><img src="https://img.shields.io/badge/Portfolio-Live-9D4EDD?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio Button" /></a>[cite: 1]
-  <a href="https://linkedin.com/in/ash274946"><img src="https://img.shields.io/badge/LinkedIn-Connect-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" /></a>[cite: 1]
-  <a href="mailto:koothedhulaa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-5A189A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button" /></a>[cite: 1]
-  <a href="https://github.com/ASH274946"><img src="https://img.shields.io/badge/GitHub-Profile-3C096C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button" /></a>[cite: 1]
+  <a href="https://portfolio.buildwithash.dev"><img src="https://img.shields.io/badge/Portfolio-Live-9D4EDD?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio Button" /></a>
+  <a href="https://linkedin.com/in/ash274946"><img src="https://img.shields.io/badge/LinkedIn-Connect-7B2CBF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" /></a>
+  <a href="mailto:koothedhulaa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-5A189A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button" /></a>
+  <a href="https://github.com/ASH274946"><img src="https://img.shields.io/badge/GitHub-Profile-3C096C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button" /></a>
 </div>
 
 <br/>
@@ -36,9 +36,9 @@
 
 ## 👨‍💻 About Me
 
-I am an enterprise-focused software engineer and AI-native product builder, currently in my final year of a B.Tech in CSE (AI & ML)[cite: 1]. Professionally and legally known as Aswin Kumar Reddy Koothedhula, my engineering focus revolves around conceptualizing, designing, and shipping full-stack AI products from ideation to scalable deployment[cite: 1]. My expertise encompasses advanced AI/ML pipelines, robust system architecture, and nuanced product logic[cite: 1]. 
+I am an enterprise-focused software engineer and AI-native product builder, currently in my final year of a B.Tech in CSE (AI & ML). Professionally and legally known as Aswin Kumar Reddy Koothedhula, my engineering focus revolves around conceptualizing, designing, and shipping full-stack AI products from ideation to scalable deployment. My expertise encompasses advanced AI/ML pipelines, robust system architecture, and nuanced product logic. 
 
-With a profound product engineering mindset, I emphasize performance, security, and maintainability across the stack[cite: 1]. I have hands-on experience driving team coordination and technical mentorship, notably contributing to India's first Telugu regional LLM initiative, managing large-scale multimodal data pipelines, and implementing high-efficiency RAG workflows[cite: 1]. I am dedicated to bridging the gap between cutting-edge AI research and production-grade enterprise software[cite: 1].
+With a profound product engineering mindset, I emphasize performance, security, and maintainability across the stack. I have hands-on experience driving team coordination and technical mentorship, notably contributing to India's first Telugu regional LLM initiative, managing large-scale multimodal data pipelines, and implementing high-efficiency RAG workflows. I am dedicated to bridging the gap between cutting-edge AI research and production-grade enterprise software.
 
 **Open To:** Full-time Software Engineering roles, AI/ML Engineering positions, and high-impact Open Source collaborations.
 
@@ -68,10 +68,10 @@ With a profound product engineering mindset, I emphasize performance, security, 
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Generative AI** | Advanced | OpenAI API, Google Gemini, Custom LLM Workflows, Prompt Engineering[cite: 1] |
-| **Information Retrieval** | Advanced | RAG Pipelines, ChromaDB, Vector Embeddings, Contextual Search[cite: 1] |
-| **Model Architectures** | Intermediate | Tokenization, Attention Mechanisms, Multimodal AI (Text, Voice, Vision)[cite: 1] |
-| **Data Engineering** | Advanced | Multimodal Data Collection Pipelines, Large-scale Training Corpora Management[cite: 1] |
+| **Generative AI** | Advanced | OpenAI API, Google Gemini, Custom LLM Workflows, Prompt Engineering |
+| **Information Retrieval** | Advanced | RAG Pipelines, ChromaDB, Vector Embeddings, Contextual Search |
+| **Model Architectures** | Intermediate | Tokenization, Attention Mechanisms, Multimodal AI (Text, Voice, Vision) |
+| **Data Engineering** | Advanced | Multimodal Data Collection Pipelines, Large-scale Training Corpora Management |
 
 ---
 
@@ -80,7 +80,7 @@ With a profound product engineering mindset, I emphasize performance, security, 
 <details>
 <summary><strong>🎥 Visume - AI Video Hiring Platform</strong></summary>
 
-An AI-first recruitment platform replacing static resumes with AI-analyzed video profiles, featuring a dual-portal architecture for recruiters and candidates. Includes an AI transcript analysis workflow for automatic candidate scoring and ranking.[cite: 1]
+An AI-first recruitment platform replacing static resumes with AI-analyzed video profiles, featuring a dual-portal architecture for recruiters and candidates. Includes an AI transcript analysis workflow for automatic candidate scoring and ranking.
 
 | Metric | Details |
 | :--- | :--- |
@@ -91,7 +91,7 @@ An AI-first recruitment platform replacing static resumes with AI-analyzed video
 | **Impact** | Eliminates manual screening effort with data-driven shortlisting |
 | **Repository** | [View Repository](#) |
 
-**Professional Explanation:** Designed and owned the complete system architecture, shipping from zero to deployment in 5 days[cite: 1]. Engineered a robust pipeline that integrates real-time messaging, a custom video resume studio, and LLM-powered candidate analysis workflows[cite: 1].
+**Professional Explanation:** Designed and owned the complete system architecture, shipping from zero to deployment in 5 days. Engineered a robust pipeline that integrates real-time messaging, a custom video resume studio, and LLM-powered candidate analysis workflows.
 
 </details>
 
@@ -116,7 +116,7 @@ An advanced machine learning application dedicated to predictive modeling for me
 <details>
 <summary><strong>📝 Fillora - AI Form Automation App</strong></summary>
 
-A cross-platform mobile application utilizing AI for advanced form automation, featuring multilingual capabilities, voice input (STT & TTS), and robust offline operations.[cite: 1]
+A cross-platform mobile application utilizing AI for advanced form automation, featuring multilingual capabilities, voice input (STT & TTS), and robust offline operations.
 
 | Metric | Details |
 | :--- | :--- |
@@ -127,14 +127,14 @@ A cross-platform mobile application utilizing AI for advanced form automation, f
 | **Impact** | Enhances accessibility and significantly reduces manual data entry time |
 | **Repository** | [View Repository](#) |
 
-**Professional Explanation:** Architected and shipped an accessibility-first application during the Google Developer Groups Agentathon, integrating conversational AI assistance with secure local authentication and PDF export functionalities.[cite: 1]
+**Professional Explanation:** Architected and shipped an accessibility-first application during the Google Developer Groups Agentathon, integrating conversational AI assistance with secure local authentication and PDF export functionalities.
 
 </details>
 
 <details>
 <summary><strong>📊 FinScribe.ai - Automated Financial Report Generator</strong></summary>
 
-An automated MD&A report generator that translates raw financial statements into structured, analytical outputs using an advanced Retrieval-Augmented Generation (RAG) pipeline.[cite: 1]
+An automated MD&A report generator that translates raw financial statements into structured, analytical outputs using an advanced Retrieval-Augmented Generation (RAG) pipeline.
 
 | Metric | Details |
 | :--- | :--- |
@@ -145,7 +145,7 @@ An automated MD&A report generator that translates raw financial statements into
 | **Impact** | Reduces manual financial analysis and reporting overhead |
 | **Repository** | [View Repository](#) |
 
-**Professional Explanation:** Designed the complete AI workflow incorporating Google Gemini for complex financial insight extraction. Successfully built and shipped the full-stack architecture within 24 hours at the GenAI Buildathon.[cite: 1]
+**Professional Explanation:** Designed the complete AI workflow incorporating Google Gemini for complex financial insight extraction. Successfully built and shipped the full-stack architecture within 24 hours at the GenAI Buildathon.
 
 </details>
 
@@ -154,13 +154,13 @@ An automated MD&A report generator that translates raw financial statements into
 ## 💼 Experience
 
 **AI Product Intern** | **Viswam.ai-Swecha Corpus**
-*May 2025 - Nov 2025*[cite: 1]
+*May 2025 - Nov 2025*
 
-As a founding cohort member, I contributed extensively to India's first Telugu regional Large Language Model initiative, focusing on low-resource language modeling.[cite: 1]
-* Designed and managed robust multimodal data collection pipelines encompassing text, voice, images, and video.[cite: 1]
-* Led the onboarding and technical mentorship of over 10 peers across DevOps practices, GitLab workflows, and data processing architectures.[cite: 1]
-* Coordinated the delivery of cloud-based AI modules utilizing Supabase and Streamlit to ensure output consistency across a distributed team.[cite: 1]
-* Deepened core understandings of tokenization and attention mechanisms through rigorous, hands-on dataset curation and model training preparatory work.[cite: 1]
+As a founding cohort member, I contributed extensively to India's first Telugu regional Large Language Model initiative, focusing on low-resource language modeling.
+* Designed and managed robust multimodal data collection pipelines encompassing text, voice, images, and video.
+* Led the onboarding and technical mentorship of over 10 peers across DevOps practices, GitLab workflows, and data processing architectures.
+* Coordinated the delivery of cloud-based AI modules utilizing Supabase and Streamlit to ensure output consistency across a distributed team.
+* Deepened core understandings of tokenization and attention mechanisms through rigorous, hands-on dataset curation and model training preparatory work.
 
 *Skills:* Multimodal AI, Data Pipelines, Supabase, Streamlit, GitLab, Technical Mentorship.
 
@@ -170,9 +170,9 @@ As a founding cohort member, I contributed extensively to India's first Telugu r
 
 | Recognition | Details |
 | :--- | :--- |
-| **OpenAI Academy X NxtWave Buildathon** | Conceptualized and developed 'MailX', an AI-powered smart inbox prioritization product during a 16-Hour regional buildathon.[cite: 1] |
-| **GDG Agentathon Hackathon** | Built and shipped 'Fillora' at the 36-Hour Hackathon hosted by Google Developer Groups and EPAM.[cite: 1] |
-| **GenAIVersity Buildathon** | Developed and deployed 'FinScribe.ai', a RAG-based financial insight pipeline, within a strict 24-hour window.[cite: 1] |
+| **OpenAI Academy X NxtWave Buildathon** | Conceptualized and developed 'MailX', an AI-powered smart inbox prioritization product during a 16-Hour regional buildathon. |
+| **GDG Agentathon Hackathon** | Built and shipped 'Fillora' at the 36-Hour Hackathon hosted by Google Developer Groups and EPAM. |
+| **GenAIVersity Buildathon** | Developed and deployed 'FinScribe.ai', a RAG-based financial insight pipeline, within a strict 24-hour window. |
 | **Yantra Yugam 2026** | Actively competed and delivered software solutions in a prestigious national-level hackathon. |
 
 ---
@@ -194,8 +194,8 @@ As a founding cohort member, I contributed extensively to India's first Telugu r
 <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certification" />
 
 ### AI & Cloud Credentials
-<img src="https://img.shields.io/badge/Google%20Cloud-Arcade%20Program-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Cert" />[cite: 1]
-<img src="https://img.shields.io/badge/AI%20&%20ML-Virtual%20Internship-7B2CBF?style=for-the-badge&logo=machinelearning&logoColor=white" alt="AI/ML Cert" />[cite: 1]
+<img src="https://img.shields.io/badge/Google%20Cloud-Arcade%20Program-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Cert" />
+<img src="https://img.shields.io/badge/AI%20&%20ML-Virtual%20Internship-7B2CBF?style=for-the-badge&logo=machinelearning&logoColor=white" alt="AI/ML Cert" />
 
 </div>
 
@@ -216,7 +216,7 @@ As a founding cohort member, I contributed extensively to India's first Telugu r
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ASH274946&theme=radical&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&icon_color=7B2CBF&hide_border=true&show_icons=true" alt="GitHub Global Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ASH274946&theme=radical&background=0D1117&ring=9D4EDD&fire=7B2CBF&currStreakLabel=9D4EDD&hide_border=true" alt="GitHub Contribution Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ASH274946&theme=radical&background=0D1117&ring=9D4EDD&fire=7B2CBF&currStreakLabel=9D4EDD&hide_border=true" alt="GitHub Contribution Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASH274946&theme=radical&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&layout=compact&hide_border=true" alt="Top Used Languages" />
 </div>
