@@ -3,33 +3,33 @@
   
   <br/>
 
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+ML+Specialist;Full+Stack+Developer;Product+Builder" target="_blank">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+ML+Specialist;Full+Stack+Developer;Product+Builder" alt="Typing SVG Animation" />
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=950&lines=Software+Engineer;AI+%26+ML+Specialist;Full+Stack+Developer;Product+Builder" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=950&lines=Software+Engineer;AI+%26+ML+Specialist;Full+Stack+Developer;Product+Builder" alt="Typing SVG Animation" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20&%20ML)-333333?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-Secunderabad%2C%20India-333333?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location Badge" />
+  <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20&%20ML)-006D32?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Location-Secunderabad%2C%20India-006D32?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location Badge" />
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://portfolio.buildwithash.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live-444444?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio Button" /></a>
-  <a href="https://linkedin.com/in/ash274946" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-444444?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" /></a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=koothedhulaa@gmail.com&su=Contact+from+Portfolio&tf=cm" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-444444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button" /></a>
-  <a href="https://github.com/ASH274946" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-444444?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button" /></a>
+  <a href="https://portfolio.buildwithash.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live-238636?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio Button" /></a>
+  <a href="https://linkedin.com/in/ash274946" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-238636?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" /></a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=koothedhulaa@gmail.com&su=Contact+from+Portfolio&tf=cm" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button" /></a>
+  <a href="https://github.com/ASH274946" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button" /></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ASH274946&color=555555&style=for-the-badge&label=Profile+Views" alt="Profile Views Badge" />
-  <img src="https://img.shields.io/github/followers/ASH274946?color=555555&style=for-the-badge&logo=github&label=Followers" alt="Followers Badge" />
-  <img src="https://img.shields.io/github/stars/ASH274946?color=555555&style=for-the-badge&logo=github&label=Stars" alt="Stars Badge" />
+  <img src="https://komarev.com/ghpvc/?username=ASH274946&color=0E4429&style=for-the-badge&label=Profile+Views" alt="Profile Views Badge" />
+  <img src="https://img.shields.io/github/followers/ASH274946?color=0E4429&style=for-the-badge&logo=github&label=Followers" alt="Followers Badge" />
+  <img src="https://img.shields.io/github/stars/ASH274946?color=0E4429&style=for-the-badge&logo=github&label=Stars" alt="Stars Badge" />
 </div>
 
 ---
