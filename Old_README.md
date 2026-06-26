@@ -1,0 +1,231 @@
+<div align="center">
+  <h1>Aswin Kumar Reddy Koothedhula</h1>
+  
+  <br/>
+
+  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=950&lines=Software+Engineer;AI+%26+ML+Specialist;Full+Stack+Developer;Product+Builder" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=950&lines=Software+Engineer;AI+%26+ML+Specialist;Full+Stack+Developer;Product+Builder" alt="Typing SVG Animation" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/B.Tech-CSE%20(AI%20&%20ML)-006D32?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Academic Badge" />
+  <img src="https://img.shields.io/badge/Location-Secunderabad%2C%20India-006D32?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location Badge" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://portfolio.buildwithash.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live-238636?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio Button" /></a>
+  <a href="https://linkedin.com/in/ash274946" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-238636?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Button" /></a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=koothedhulaa@gmail.com&su=Contact+from+Portfolio&tf=cm" target="_blank"><img src="https://img.shields.io/badge/Email-Contact-238636?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Button" /></a>
+  <a href="https://github.com/ASH274946" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-238636?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Button" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ASH274946&color=0E4429&style=for-the-badge&label=Profile+Views" alt="Profile Views Badge" />
+  <img src="https://img.shields.io/github/followers/ASH274946?color=0E4429&style=for-the-badge&logo=github&label=Followers" alt="Followers Badge" />
+  <img src="https://img.shields.io/github/stars/ASH274946?color=0E4429&style=for-the-badge&logo=github&label=Stars" alt="Stars Badge" />
+</div>
+
+---
+
+## About Me
+
+I am an enterprise-focused software engineer and AI-native product builder, currently in my final year of a B.Tech in CSE (AI & ML). Professionally and legally known as Aswin Kumar Reddy Koothedhula, my engineering focus revolves around conceptualizing, designing, and shipping full-stack AI products from ideation to scalable deployment. My expertise encompasses advanced AI/ML pipelines, robust system architecture, and nuanced product logic. 
+
+With a profound product engineering mindset, I emphasize performance, security, and maintainability across the stack. I have hands-on experience driving team coordination and technical mentorship, notably contributing to India's first Telugu regional LLM initiative, managing large-scale multimodal data pipelines, and implementing high-efficiency RAG workflows. I am dedicated to bridging the gap between cutting-edge AI research and production-grade enterprise software.
+
+**Open To:** Full-time Software Engineering roles, AI/ML Engineering positions, and high-impact Open Source collaborations.
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=ts,js,python,dart,java,cpp,c&theme=dark" alt="Languages" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css,figma&theme=dark" alt="Frontend" />
+
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,supabase,firebase,sqlite,postgres&theme=dark" alt="Backend and Databases" />
+
+### Cloud, DevOps & Tooling
+<img src="https://skillicons.dev/icons?i=gcp,vercel,git,github,gitlab,docker,notion&theme=dark" alt="Cloud and DevOps" />
+
+</div>
+
+---
+
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+| :--- | :--- | :--- |
+| **Generative AI** | Advanced | OpenAI API, Google Gemini, Custom LLM Workflows, Prompt Engineering |
+| **Information Retrieval** | Advanced | RAG Pipelines, ChromaDB, Vector Embeddings, Contextual Search |
+| **Model Architectures** | Intermediate | Tokenization, Attention Mechanisms, Multimodal AI (Text, Voice, Vision) |
+| **Data Engineering** | Advanced | Multimodal Data Collection Pipelines, Large-scale Training Corpora Management |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><strong>Visume - AI Video Hiring Platform</strong></summary>
+
+An AI-first recruitment platform replacing static resumes with AI-analyzed video profiles, featuring a dual-portal architecture for recruiters and candidates. Includes an AI transcript analysis workflow for automatic candidate scoring and ranking.
+
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | Next.js, Node.js, Firebase, OpenAI API |
+| **Scale** | Enterprise dual-portal architecture |
+| **Performance** | Automated transcription & intelligent scoring pipeline |
+| **Security** | Role-based access control & secure media storage |
+| **Impact** | Eliminates manual screening effort with data-driven shortlisting |
+| **Repository** | <a href="#" target="_blank">View Repository</a> |
+
+**Professional Explanation:** Designed and owned the complete system architecture, shipping from zero to deployment in 5 days. Engineered a robust pipeline that integrates real-time messaging, a custom video resume studio, and LLM-powered candidate analysis workflows.
+
+</details>
+
+<details>
+<summary><strong>Smart Premium</strong></summary>
+
+An advanced machine learning application dedicated to predictive modeling for medical insurance premiums, utilizing robust statistical analysis and optimized data pipelines.
+
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | Python, Scikit-Learn, Pandas, FastAPI |
+| **Scale** | Multi-variable predictive analytics engine |
+| **Performance** | High-accuracy regression models with optimized feature sets |
+| **Security** | Secure API endpoints for data ingestion |
+| **Impact** | Delivers reliable, data-backed premium estimates |
+| **Repository** | <a href="#" target="_blank">View Repository</a> |
+
+**Professional Explanation:** Engineered the core predictive algorithms, focusing on detailed feature extraction and model optimization to ensure precise forecasting metrics for financial planning in the medical sector.
+
+</details>
+
+<details>
+<summary><strong>Fillora - AI Form Automation App</strong></summary>
+
+A cross-platform mobile application utilizing AI for advanced form automation, featuring multilingual capabilities, voice input (STT & TTS), and robust offline operations.
+
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | Flutter, Dart, SQLite, Google Cloud Platform |
+| **Scale** | Cross-platform mobile ecosystem |
+| **Performance** | High-efficiency offline-capable database design |
+| **Security** | Biometric authentication layer |
+| **Impact** | Enhances accessibility and significantly reduces manual data entry time |
+| **Repository** | <a href="#" target="_blank">View Repository</a> |
+
+**Professional Explanation:** Architected and shipped an accessibility-first application during the Google Developer Groups Agentathon, integrating conversational AI assistance with secure local authentication and PDF export functionalities.
+
+</details>
+
+<details>
+<summary><strong>FinScribe.ai - Automated Financial Report Generator</strong></summary>
+
+An automated MD&A report generator that translates raw financial statements into structured, analytical outputs using an advanced Retrieval-Augmented Generation (RAG) pipeline.
+
+| Metric | Details |
+| :--- | :--- |
+| **Stack** | FastAPI, React, LangChain, Google Gemini |
+| **Scale** | High-throughput document processing |
+| **Performance** | Accelerated metric computation & semantic search |
+| **Security** | Secure financial data handling in memory |
+| **Impact** | Reduces manual financial analysis and reporting overhead |
+| **Repository** | <a href="#" target="_blank">View Repository</a> |
+
+**Professional Explanation:** Designed the complete AI workflow incorporating Google Gemini for complex financial insight extraction. Successfully built and shipped the full-stack architecture within 24 hours at the GenAI Buildathon.
+
+</details>
+
+---
+
+## Experience
+
+**AI Product Intern** | **Viswam.ai-Swecha Corpus**
+*May 2025 - Nov 2025*
+
+As a founding cohort member, I contributed extensively to India's first Telugu regional Large Language Model initiative, focusing on low-resource language modeling.
+* Designed and managed robust multimodal data collection pipelines encompassing text, voice, images, and video.
+* Led the onboarding and technical mentorship of over 10 peers across DevOps practices, GitLab workflows, and data processing architectures.
+* Coordinated the delivery of cloud-based AI modules utilizing Supabase and Streamlit to ensure output consistency across a distributed team.
+* Deepened core understandings of tokenization and attention mechanisms through rigorous, hands-on dataset curation and model training preparatory work.
+
+*Skills:* Multimodal AI, Data Pipelines, Supabase, Streamlit, GitLab, Technical Mentorship.
+
+---
+
+## Achievements
+
+| Recognition | Details |
+| :--- | :--- |
+| **OpenAI Academy X NxtWave Buildathon** | Conceptualized and developed 'MailX', an AI-powered smart inbox prioritization product during a 16-Hour regional buildathon. |
+| **GDG Agentathon Hackathon** | Built and shipped 'Fillora' at the 36-Hour Hackathon hosted by Google Developer Groups and EPAM. |
+| **GenAIVersity Buildathon** | Developed and deployed 'FinScribe.ai', a RAG-based financial insight pipeline, within a strict 24-hour window. |
+| **Yantra Yugam 2026** | Actively competed and delivered software solutions in a prestigious national-level hackathon. |
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+  <a href="https://github.com/ASH274946" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=ASH274946&bg_color=0D1117&title_color=FFFFFF&text_color=999999&icon_color=888888&hide_border=true&show_icons=true" alt="GitHub Global Stats" />
+  </a>
+  <a href="https://github.com/ASH274946" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=ASH274946&background=0D1117&ring=888888&fire=888888&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=999999&dates=999999&hide_border=true" alt="GitHub Contribution Streak" />
+  </a>
+  <br/>
+  <a href="https://github.com/ASH274946" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASH274946&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&layout=compact&hide_border=true" alt="Top Used Languages" />
+  </a>
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+  <a href="https://github.com/ASH274946" target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ASH274946&bg_color=0D1117&color=999999&line=FFFFFF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  </a>
+</div>
+
+---
+
+## Contribution Path
+
+<div align="center">
+  <a href="https://github.com/ASH274946" target="_blank">
+    <img src="https://raw.githubusercontent.com/ASH274946/ASH274946/output/github-contribution-grid-snake.svg" alt="GitHub Activity Snake" />
+  </a>
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - Advanced Multi-Agent LLM Orchestration
+  - Distributed Systems Architecture & Cloud Scalability
+Building:
+  - Flowspace Dashboard (React/Supabase Integration)
+  - Lifemonk EdTech Platform (Node.js/Flutter Ecosystem)
+Exploring:
+  - High-Performance Microservices
+  - Graph RAG Models & Semantic Architecture
+Open_To:
+  - Full-time Software Engineering & AI Roles
+  - High-Impact Open Source Collaborations
