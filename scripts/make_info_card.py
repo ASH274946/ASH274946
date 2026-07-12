@@ -107,7 +107,7 @@ parts = [
 ]
 
 for i, dotcol in enumerate(["#ff5f56", "#ffbd2e", "#27c93f"]):
-    parts.append(f'<circle cx="{22 + i*16}" cy="{TITLEBAR_H/2}" r="5" fill="{dotcol}"/>')
+    parts.append(f'<circle cx="{22 + i*16}" cy="15" r="5" fill="{dotcol}"/>')
 
 y = 45
 for i, row in enumerate(ROWS):
