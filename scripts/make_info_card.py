@@ -9,7 +9,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "..", "info-card.svg")
 STATIC = bool(os.environ.get("STATIC"))
 
-W, H = 540, 580
+W, H = 540, 490
 PAD = 10
 KEY_X = PAD
 VAL_X = PAD + 190
@@ -102,9 +102,14 @@ parts = [
     f'<linearGradient id="ibg" x1="0" y1="0" x2="0" y2="1">'
     f'<stop offset="0" stop-color="{BG2}"/><stop offset="1" stop-color="{BG}"/></linearGradient></defs>',
     f'<rect width="{W}" height="{H}" rx="12" fill="url(#ibg)"/>',
+    f'<rect x="0.5" y="0.5" width="{W-1}" height="{H-1}" rx="12" fill="none" stroke="{FRAME}" stroke-width="1" stroke-opacity="0.55"/>',
+    f'<line x1="0" y1="30" x2="{W}" y2="30" stroke="{FRAME}" stroke-opacity="0.35"/>',
 ]
 
-y = 25
+for i, dotcol in enumerate(["#ff5f56", "#ffbd2e", "#27c93f"]):
+    parts.append(f'<circle cx="{PAD + i*16}" cy="15" r="5" fill="{dotcol}"/>')
+
+y = 45
 for i, row in enumerate(ROWS):
     kind = row[0]
     if kind == "gap":
