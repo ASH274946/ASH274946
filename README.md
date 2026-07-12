@@ -1,7 +1,7 @@
 <div align="center">
   <table>
     <tr>
-      <td valign="top"><img src="./avi-ascii.svg?v=3" width="370" alt="ASCII portrait" /></td>
+      <td valign="top"><img src="./ash-ascii.svg?v=4" width="370" alt="ASCII portrait" /></td>
       <td valign="top"><img src="./info-card.svg?v=3" width="540" alt="Experience, stack, highlights" /></td>
     </tr>
   </table>
