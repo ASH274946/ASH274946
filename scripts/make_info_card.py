@@ -27,7 +27,7 @@ ACCENT = "#22d3ee"
 # ===========================================================================
 #  EDIT THIS
 # ===========================================================================
-USER = "Aswin_Kumar_Reddy_Koothedhula"
+USER = "Aswin-Kumar-Reddy-Koothedhula"
 DOMAIN = "buildwithash.dev"
 GH_USERNAME = "ASH274946"
 
@@ -61,16 +61,16 @@ ROWS = [
     ("host",),
     ("kv", "Role:", "AI-native Builder & Full-stack Dev"),
     ("kv", "Education:", "B.Tech CSE (AI & ML) @ St. Peter's"),
-    ("kv", "Stack.AI:", "LangChain, ChromaDB, OpenAI, Gemini"),
+    ("kv", "Stack.AI:", "LangChain, ChromaDB, OpenAI, Gemini, Anthropic"),
     ("kv", "Stack.Web:", "Next.js, React, Node.js, FastAPI, Flutter"),
     ("kv", "Cloud/DB:", "GCP, Firebase, Supabase, MongoDB, SQLite"),
     ("gap",),
     ("kv", "Languages.Programming:", "Python, TypeScript, JavaScript, Dart"),
     ("kv", "Languages.Computer:", "HTML, CSS, SQL, JSON"),
-    ("kv", "Languages.Real:", "English, Telugu"),
+    ("kv", "Languages.Real:", "English, Telugu, Hindi"),
     ("gap",),
     ("kv", "Tools.Product:", "Figma, Notion, Streamlit, Stitch"),
-    ("kv", "Tools.Dev:", "GitHub, Vercel, Google Cloud, Antigravity"),
+    ("kv", "Tools.Dev:", "GitHub, Vercel, Google Cloud"),
     ("gap",),
     ("sec", "Contact"),
     ("kv", "Email.Personal:", "Koothedhulaa@gmail.com"),
