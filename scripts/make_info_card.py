@@ -27,7 +27,7 @@ ACCENT = "#22d3ee"
 # ===========================================================================
 #  EDIT THIS
 # ===========================================================================
-USER = "Aswin Kumar Reddy Koothedhula"
+USER = "Aswin_Kumar_Reddy_Koothedhula"
 DOMAIN = "buildwithash.dev"
 GH_USERNAME = "ASH274946"
 
