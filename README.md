@@ -8,7 +8,7 @@
 
   <h2>Aswin Kumar Reddy Koothedhula</h2>
 
-  <p><b>Software Dev · Tech Enthusiast · Vibe Coder</b></p>
+  <p><b>Software Dev · Tech Enthusiast · AI Native Builder</b></p>
 
   <p>
     <a href="https://portfolio.buildwithash.dev/"><img src="https://img.shields.io/badge/Portfolio-portfolio.buildwithash.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
